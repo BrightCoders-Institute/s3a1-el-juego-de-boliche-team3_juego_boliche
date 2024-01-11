@@ -27,7 +27,3 @@ class Board
     x
   end
 end
-
-# b = Board.new()
-
-# b.display_board
