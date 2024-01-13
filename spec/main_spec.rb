@@ -39,3 +39,4 @@ RSpec.describe 'Boliche' do
     end
   end
 end
+
